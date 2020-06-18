@@ -1,0 +1,6 @@
+*.html
+*.js
+*.css
+*.ps1
+.project
+*.pyc
